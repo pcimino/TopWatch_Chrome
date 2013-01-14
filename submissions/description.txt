@@ -1,0 +1,1 @@
+This is a simple stop watch application, demonstrating the Enyo 2 open source JavaScript framework. One goal of the project is to try and deploy to as as many platforms as possible. Click the help in the app to go to the project blog.
