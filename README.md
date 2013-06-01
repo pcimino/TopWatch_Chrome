@@ -9,3 +9,7 @@ A bit of a detour from the main tutorial. I thought I'd quickly create the files
 
 Chrome basically points to a hosted app, [in this case, here](http://translunardesigns.com/tw/index.html).
 
+# Mozilla Firefox OS
+To install onto a Firefox OS device, navigate to [http://translunardesigns.com/install-ff-os.html](http://translunardesigns.com/install-ff-os.html)
+
+This is really for demonstration only, the stop watch dial does not size correctly on the device or simulator that I tested.

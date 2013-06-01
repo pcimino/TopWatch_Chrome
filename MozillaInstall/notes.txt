@@ -1,0 +1,13 @@
+Created this directory so I could try installing onto a Firefox OS Device. The install-ff-os.html works in a Mozilla browser (OS Simulator or device). The /tw directory is a relative path on my site, the manifest also has to have the correct path. THe .htaccess is required to serve the manifext file.
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Apps.
+
+https://developer.mozilla.org/en-US/docs/Web/Apps/Manifest?redirectlocale=en-US&redirectslug=Apps%2FManifest#Serving_manifests
+
+https://developer.mozilla.org/en-US/docs/Web/Apps/Manifest
+
+https://marketplace.firefox.com/developers/validator
+
+
+

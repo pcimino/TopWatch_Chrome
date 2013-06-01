@@ -1,0 +1,19 @@
+{
+  "name": "Top Watch",
+  "description": "Simple stop watch demonstrating Enyo 2",
+  "launch_path": "/tw/index-ff.html",
+  "version": "0.1.0",
+  "icons": {
+    "32": "/tw/img/icon32.png"
+	, "48": "/tw/img/icon48.png"
+	, "64": "/tw/img/icon64.png"
+	, "128": "/tw/img/icon128.png"
+	, "480": "/tw/img/icon480.png"
+  },
+  "developer": {
+    "name": "Trans Lunar Designs",
+    "url": "http://translunardesigns.com"
+  },
+  "installs_allowed_from": ["https://www.translunardesigns.com", "*"],
+  "default_locale": "en"
+}
